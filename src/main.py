@@ -1,6 +1,7 @@
 from textnode import *
 from copystatic import *
 from generatepage import *
+import sys
 
 def main():
     basepath = sys.argv
